@@ -1,5 +1,9 @@
 * {
+  line-height: normal;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: Helvetica Neue, "Apple SD Gothic Neo", arial, "나눔고딕",
+    "NanumGothic", "돋움", Dotum, Tahoma, Geneva, sans-serif;
+  font-size: 14px;
 }
